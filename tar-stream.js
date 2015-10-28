@@ -1,0 +1,1 @@
+tarStream = Npm.require('tar-stream');
