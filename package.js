@@ -1,6 +1,6 @@
 Package.describe({
   name: 'davidthornton:tar-stream',
-  version: '1.2.2_1',
+  version: '1.2.2_2',
   summary: 'Meteor smart package for the tar-stream node.js package',
   git: 'https://github.com/davidthornton/meteor-tar-stream.git',
   documentation: 'README.md'
